@@ -11,3 +11,5 @@ The website contains my personal notes for the courses , im taking in software d
 ## Code 401 - Advanced Software Development
 
 ## Things I want to know more about
+
+> [The Growth Mindset](/growth.md)
