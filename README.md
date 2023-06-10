@@ -13,3 +13,5 @@ The website contains my personal notes for the courses , im taking in software d
 ## Things I want to know more about
 
 > [The Growth Mindset](/growth.md)
+
+> [class01a](./class01/class01a)
