@@ -12,6 +12,8 @@ The website contains my personal notes for the courses , im taking in software d
 
 ## Things I want to know more about
 
-> [The Growth Mindset](/growth.md)
-
->[(Class 01a) Node Ecosystem](./class01/class01a)
+| JavaScript content     | Summary 
+| :---        |    :----:
+|THE GROWTH Mindset   | [The Growth Mindset](/growth.md)
+|class-01     | [(Class 01a) Node Ecosystem](./class01/class01a.md)
+|class-02    | [(class-02) Express, NPM, TDD, CI/CD](./class01/class01b.md)
