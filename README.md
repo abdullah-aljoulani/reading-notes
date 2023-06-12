@@ -16,4 +16,5 @@ The website contains my personal notes for the courses , im taking in software d
 | :---        |    :----:
 |THE GROWTH Mindset   | [The Growth Mindset](/growth.md)
 |class-01     | [(Class 01a) Node Ecosystem](./class01/class01a.md)
-|class-02    | [(class-02) Express, NPM, TDD, CI/CD](./class01/class01b.md)
+|class-01b    | [(class-01b) Express, NPM, TDD, CI/CD](./class01/class01b.md)
+|class-02    | [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md)
