@@ -40,6 +40,6 @@ import the Express module in server file , then create an instance of the Expres
 
 route middleware is used to perform specific operations or checks on incoming HTTP requests before they reach the actual route handler.
 
-**Links to an external site.Things I want to know more about**
+**Things I want to know more about**
 
 more about middleware
