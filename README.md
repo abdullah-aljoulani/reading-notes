@@ -21,3 +21,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-02    | [Express REST API](./class02/Express%20REST%20API.md)
 |class-03    | [Linked Lists](./class03/Linked%20Lists.md)
 |class-06    | [Authentication](./Authentication.md)
+|class-07    | [Bearer Authorization](./Bearer%20Authorization.md)
