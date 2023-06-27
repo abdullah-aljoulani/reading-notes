@@ -20,5 +20,6 @@ The website contains my personal notes for the courses , im taking in software d
 |class-02    | [Data Structures and Algorithms](./class02/Data%20Structures%20and%20Algorithms.md)
 |class-02    | [Express REST API](./class02/Express%20REST%20API.md)
 |class-03    | [Linked Lists](./class03/Linked%20Lists.md)
+|class-03    | [Data Modeling](./class03/Data%20Modeling.md)
 |class-06    | [Authentication](./Authentication.md)
 |class-07    | [Bearer Authorization](./Bearer%20Authorization.md)
