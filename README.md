@@ -23,3 +23,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-03    | [Data Modeling](./class03/Data%20Modeling.md)
 |class-06    | [Authentication](./Authentication.md)
 |class-07    | [Bearer Authorization](./Bearer%20Authorization.md)
+|class-08    | [Access Control](./Class%2008/Access%20Control%20.md)
