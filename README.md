@@ -24,3 +24,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-06    | [Authentication](./Authentication.md)
 |class-07    | [Bearer Authorization](./Bearer%20Authorization.md)
 |class-08    | [Access Control](./Class%2008/Access%20Control%20.md)
+|class-09    | [Authorization/Authentication](./class%2009/Authorization/Authentication.md)
