@@ -28,3 +28,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-10    | [Stacks and Queues](./class%2010/Stacks%20and%20Queues.md)
 |class-11    | [Event Driven Programming](./class%2011/Event%20Driven%20Programming.md)
 |class-12    | [Socket.io](./class%2012/Socket.io.md)
+|class-13    | [Message Queues](./class%2013/Message%20Queues.md)
