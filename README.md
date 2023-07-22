@@ -30,3 +30,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-12    | [Socket.io](./class%2012/Socket.io.md)
 |class-13    | [Message Queues](./class%2013/Message%20Queues.md)
 |class-14    | [Trees](./class%2014/Trees.md)
+|class-16    | [AWS](./class%2016/AWS.md)
