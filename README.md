@@ -31,3 +31,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-13    | [Message Queues](./class%2013/Message%20Queues.md)
 |class-14    | [Trees](./class%2014/Trees.md)
 |class-16    | [AWS](./class%2016/AWS.md)
+|class-17    | [S3 and Lambda](./class%2017/AWS%3A%20S3%20and%20Lambda.md)
