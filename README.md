@@ -32,3 +32,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-14    | [Trees](./class%2014/Trees.md)
 |class-16    | [AWS](./class%2016/AWS.md)
 |class-17    | [S3 and Lambda](./class%2017/AWS%3A%20S3%20and%20Lambda.md)
+|class-18    | [ AWS: API, Dynamo and Lambda](./class%2018/%20AWS%3A%20API%2C%20Dynamo%20and%20Lambda.md)
