@@ -35,3 +35,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-18    | [AWS: API, Dynamo and Lambda](./class%2018/%20AWS%3A%20API%2C%20Dynamo%20and%20Lambda.md)
 |class-19    | [AWS: Events](./class%2019/AWS%3A%20Events.md)
 |class-26    | [Component Based UI](./class%2026/Component%20Based%20UI.md)
+|class-28    | [Component Lifecycle](./class%2028/Component%20Lifecycle.md)
