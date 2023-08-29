@@ -37,3 +37,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-26    | [Component Based UI](./class%2026/Component%20Based%20UI.md)
 |class-28    | [Component Lifecycle](./class%2028/Component%20Lifecycle.md)
 |class-29    | [Advanced State with Reducers](./class%2029/Advanced%20State%20with%20Reducers.md)
+|class-30    | [Hash Tables](./class%2030/Hash-Tables.md)
