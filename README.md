@@ -40,3 +40,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-30    | [Hash Tables](./class%2030/Hash-Tables.md)
 |class-31    | [Context API](./class%2031/Context%20API.md)
 |class-32    | [Scaling Up with Reducer and Context](./class%2032/Scaling%20Up%20with%20Reducer%20and%20Context.md)
+|class-33    | [Graphs](./class%2033/Graphs.md)
