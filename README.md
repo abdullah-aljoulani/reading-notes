@@ -41,3 +41,5 @@ The website contains my personal notes for the courses , im taking in software d
 |class-31    | [Context API](./class%2031/Context%20API.md)
 |class-32    | [Scaling Up with Reducer and Context](./class%2032/Scaling%20Up%20with%20Reducer%20and%20Context.md)
 |class-33    | [Graphs](./class%2033/Graphs.md)
+|class-34    | [auth](./class%2034/auth.md)
+|class-35    | [API Integration](./class%2035/API%20Integration.md)
