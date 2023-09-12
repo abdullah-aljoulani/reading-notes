@@ -43,3 +43,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-33    | [Graphs](./class%2033/Graphs.md)
 |class-34    | [auth](./class%2034/auth.md)
 |class-35    | [API Integration](./class%2035/API%20Integration.md)
+|class-36    | [Application State with Redux](./class%2036/%20Application%20State%20with%20Redux.md)
