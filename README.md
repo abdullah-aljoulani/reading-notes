@@ -46,3 +46,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-36    | [Application State with Redux](./class%2036/%20Application%20State%20with%20Redux.md)
 |class-37    | [Combined Reducers](./class%2037/Combined%20Reducers.md)
 |class-38    | [Asynchronous Actions](./class%2038/Asynchronous%20Actions.md)
+|class-39    | [Additional Topics](./class%2039/Additional%20Topics.md)
