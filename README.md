@@ -48,3 +48,4 @@ The website contains my personal notes for the courses , im taking in software d
 |class-38    | [Asynchronous Actions](./class%2038/Asynchronous%20Actions.md)
 |class-39    | [Additional Topics](./class%2039/Additional%20Topics.md)
 |class-41   | [React Native](./Class%2041/React%20Native.md)
+|class-42   | [Ethics](./class%2042/Ethics.md)
